@@ -1,4 +1,4 @@
-# Metasploitable-2-Write-Up
+# NMap to Metasploitable-2-Write-Up
 Using Nmap and Metasploit to scan and target a vulnerable virtual machine (Metasploitable 2) within a controlled home lab environment to practice recon, enumeration and exploitation skills.
 <!-- Nmap -->
 <img src="https://img.shields.io/badge/-Nmap-4B8BBE?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
